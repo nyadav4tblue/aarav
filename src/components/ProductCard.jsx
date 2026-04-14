@@ -1,12 +1,13 @@
 import { Link } from 'react-router-dom'
 import { getCategoryById } from '../data/categories'
 import { useFavorites } from '../context/FavoritesContext'
+import { publicUrl } from '../utils/publicUrl'
 
 /** @param {{ product: { id: string; name: string; category: string; description: string; images: string[] } }} props */
 export function ProductCard({ product }) {
   const cat = getCategoryById(product.category)
   const { toggle, has } = useFavorites()
-  const thumb = product.images[0] || '/images/gods-surya-1.svg'
+  const thumb = product.images[0] || 'images/gods-surya-1.svg'
   const saved = has(product.id)
 
   return (
@@ -16,7 +17,7 @@ export function ProductCard({ product }) {
         className="relative block aspect-[4/3] overflow-hidden bg-stone-100"
       >
         <img
-          src={thumb}
+          src={publicUrl(thumb)}
           alt=""
           className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
         />

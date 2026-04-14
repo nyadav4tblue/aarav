@@ -1,11 +1,12 @@
 import { useEffect, useState } from 'react'
+import { publicUrl } from '../utils/publicUrl'
 
 /**
  * @param {{ images: string[]; alt: string; className?: string }} props
  */
 export function ImageCarousel({ images, alt, className = '' }) {
   const [index, setIndex] = useState(0)
-  const safe = images.length > 0 ? images : ['/images/gods-surya-1.svg']
+  const safe = images.length > 0 ? images : ['images/gods-surya-1.svg']
   const n = safe.length
 
   const prev = () => setIndex((i) => (i - 1 + n) % n)
@@ -32,7 +33,7 @@ export function ImageCarousel({ images, alt, className = '' }) {
     >
       <div className="aspect-[4/3] w-full">
         <img
-          src={safe[index]}
+          src={publicUrl(safe[index])}
           alt={`${alt} — ${index + 1} of ${n}`}
           className="h-full w-full object-cover transition duration-500 ease-out group-hover:scale-[1.02]"
         />
