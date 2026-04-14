@@ -1,0 +1,142 @@
+[
+  {
+    "id": "surya-disk",
+    "name": "Surya Medallion — Peetal",
+    "category": "gods",
+    "description": "Hand-finished peetal (brass) medallion with radiating rays—warm tone, solid weight, made to catch light on a shelf or altar.",
+    "images": [
+      "/images/gods-surya-1.svg",
+      "/images/gods-surya-2.svg",
+      "/images/gods-surya-3.svg",
+      "/images/dummy/dummy-01.svg",
+      "/images/dummy/dummy-02.svg"
+    ],
+    "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "featured": true
+  },
+  {
+    "id": "ganesha-mini",
+    "name": "Ganesha Miniature — Peetal",
+    "category": "gods",
+    "description": "Compact peetal cast with a soft patina. Ideal for desks and small niches—pure metal, no base materials.",
+    "images": [
+      "/images/gods-ganesha-1.svg",
+      "/images/gods-ganesha-2.svg",
+      "/images/dummy/dummy-03.svg",
+      "/images/dummy/dummy-04.svg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "lotus-aura",
+    "name": "Lotus Aura Panel — Peetal & Jasta",
+    "category": "gods",
+    "description": "Layered metal panel: peetal lotus geometry with jasta (zinc) accents for contrast—pairs well with warm indirect lighting.",
+    "images": [
+      "/images/gods-lotus-1.svg",
+      "/images/gods-lotus-2.svg",
+      "/images/dummy/dummy-05.svg",
+      "/images/dummy/dummy-06.svg"
+    ]
+  },
+  {
+    "id": "atlas-bust",
+    "name": "Atlas Bust — Peetal Cast",
+    "category": "leaders",
+    "description": "Contemplative bust in peetal with subtle texture and a soft aged patina—metal throughout, sized for modern shelves.",
+    "images": [
+      "/images/leaders-atlas-1.svg",
+      "/images/leaders-atlas-2.svg",
+      "/images/leaders-atlas-3.svg",
+      "/images/dummy/dummy-01.svg",
+      "/images/dummy/dummy-02.svg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "navigator-statue",
+    "name": "Navigator Figure — Jasta",
+    "category": "leaders",
+    "description": "Slim silhouette in jasta (zinc) with a brushed peetal compass base—cool grey tone with warm brass detail.",
+    "images": [
+      "/images/leaders-nav-1.svg",
+      "/images/leaders-nav-2.svg",
+      "/images/dummy/dummy-03.svg",
+      "/images/dummy/dummy-04.svg"
+    ]
+  },
+  {
+    "id": "scribe-relief",
+    "name": "Scribe Relief Plaque — Peetal",
+    "category": "leaders",
+    "description": "Low-relief peetal plaque—metal only, great above a reading nook or study wall.",
+    "images": [
+      "/images/leaders-scribe-1.svg",
+      "/images/dummy/dummy-05.svg",
+      "/images/dummy/dummy-06.svg"
+    ]
+  },
+  {
+    "id": "gift-box-brass",
+    "name": "Peetal Keepsake Box",
+    "category": "gifts",
+    "description": "Hinged peetal box with etched border—lined interior for jewelry or notes; all metal shell.",
+    "images": [
+      "/images/gifts-box-1.svg",
+      "/images/gifts-box-2.svg",
+      "/images/dummy/dummy-01.svg",
+      "/images/dummy/dummy-02.svg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "celebration-tray",
+    "name": "Celebration Peetal Tray",
+    "category": "gifts",
+    "description": "Hammered peetal serving tray with raised rim—food-safe lacquer inside; solid brass-family metal, not wood or plastic.",
+    "images": [
+      "/images/gifts-tray-1.svg",
+      "/images/gifts-tray-2.svg",
+      "/images/dummy/dummy-03.svg",
+      "/images/dummy/dummy-04.svg"
+    ]
+  },
+  {
+    "id": "aurora-vase",
+    "name": "Aurora Peetal Urn",
+    "category": "home_decor",
+    "description": "Tall peetal vessel with a satin gradient and a jasta ring at the foot—flowers optional; metal body only.",
+    "images": [
+      "/images/home-vase-1.svg",
+      "/images/home-vase-2.svg",
+      "/images/home-vase-3.svg",
+      "/images/dummy/dummy-05.svg",
+      "/images/dummy/dummy-06.svg"
+    ],
+    "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "featured": true
+  },
+  {
+    "id": "linen-throw",
+    "name": "Mist Jaali Panel — Peetal",
+    "category": "home_decor",
+    "description": "Cutwork peetal panel in a cool neutral fret—mount on a wall or lean on a shelf; metal craft, not fabric.",
+    "images": [
+      "/images/home-throw-1.svg",
+      "/images/home-throw-2.svg",
+      "/images/dummy/dummy-01.svg",
+      "/images/dummy/dummy-02.svg"
+    ]
+  },
+  {
+    "id": "arc-lamp",
+    "name": "Arc Peetal Floor Lamp",
+    "category": "home_decor",
+    "description": "Arc in solid peetal with a jasta counterweight base—dimmable LED; warm 2700K default for relaxed evenings.",
+    "images": [
+      "/images/home-lamp-1.svg",
+      "/images/dummy/dummy-03.svg",
+      "/images/dummy/dummy-04.svg"
+    ]
+  }
+]

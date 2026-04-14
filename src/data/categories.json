@@ -1,0 +1,26 @@
+[
+  {
+    "id": "gods",
+    "slug": "gods",
+    "label": "Gods & Deities",
+    "description": "Peetal and jasta sculptures and panels inspired by divine forms."
+  },
+  {
+    "id": "leaders",
+    "slug": "leaders",
+    "label": "Leaders & Icons",
+    "description": "Metal busts and reliefs in peetal and jasta."
+  },
+  {
+    "id": "gifts",
+    "slug": "gifts",
+    "label": "Gifts",
+    "description": "Peetal and jasta pieces for celebrations and milestones."
+  },
+  {
+    "id": "home_decor",
+    "slug": "home_decor",
+    "label": "Home Décor",
+    "description": "Metal accents for everyday spaces—peetal warmth, jasta cool tones."
+  }
+]

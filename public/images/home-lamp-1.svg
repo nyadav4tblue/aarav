@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Arc Lamp">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#27272a"/>
+      <stop offset="100%" stop-color="#18181b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <rect x="40" y="40" width="720" height="520" rx="24" fill="rgba(255,255,255,0.12)"/>
+  <text x="400" y="300" text-anchor="middle" fill="rgba(255,255,255,0.92)" font-family="DM Sans,system-ui,sans-serif" font-size="32" font-weight="600">Arc Lamp</text>
+  <text x="400" y="350" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="DM Sans,system-ui,sans-serif" font-size="16">Placeholder</text>
+</svg>
