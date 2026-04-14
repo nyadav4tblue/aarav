@@ -11,10 +11,11 @@ import { Login } from './pages/Login'
 import { Favorites } from './pages/Favorites'
 import { About } from './pages/About'
 import { NotFound } from './pages/NotFound'
+import { HashRouter } from "react-router-dom";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <AuthProvider>
         <FavoritesProvider>
           <ProductViewsProvider>
@@ -35,6 +36,6 @@ export default function App() {
           </ProductViewsProvider>
         </FavoritesProvider>
       </AuthProvider>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
